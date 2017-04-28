@@ -1,0 +1,8 @@
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\KX3_CHATTERBOX\KX3_CHATTERBOX\bin\Debug\KX3_CHATTERBOX.exe
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\KX3_CHATTERBOX\KX3_CHATTERBOX\bin\Debug\KX3_CHATTERBOX.pdb
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\KX3_CHATTERBOX\KX3_CHATTERBOX\obj\x86\Debug\KX3_CHATTERBOX.KX3_CHATTERBOX.resources
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\KX3_CHATTERBOX\KX3_CHATTERBOX\obj\x86\Debug\KX3_CHATTERBOX.Properties.Resources.resources
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\KX3_CHATTERBOX\KX3_CHATTERBOX\obj\x86\Debug\KX3_CHATTERBOX.exe
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\KX3_CHATTERBOX\KX3_CHATTERBOX\obj\x86\Debug\KX3_CHATTERBOX.pdb
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\KX3_CHATTERBOX\KX3_CHATTERBOX\obj\x86\Debug\KX3_CHATTERBOX.csproj.GenerateResource.Cache
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\KX3_CHATTERBOX\KX3_CHATTERBOX\obj\x86\Debug\KX3_CHATTERBOX.csprojResolveAssemblyReference.cache
